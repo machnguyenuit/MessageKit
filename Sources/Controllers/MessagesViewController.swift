@@ -160,7 +160,7 @@ UICollectionViewDelegateFlowLayout, UICollectionViewDataSource, UIGestureRecogni
 
     open override func viewSafeAreaInsetsDidChange() {
         super.viewSafeAreaInsetsDidChange()
-        messageCollectionViewBottomInset = requiredInitialScrollViewBottomInset()
+        //messageCollectionViewBottomInset = requiredInitialScrollViewBottomInset()
     }
 
     // MARK: - Initializers
